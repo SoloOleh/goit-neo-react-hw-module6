@@ -1,0 +1,11 @@
+.container {
+  padding: 24px;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
